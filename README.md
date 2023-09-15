@@ -1,3 +1,5 @@
+# The deployed end product can be viewed here: https://react-app-grocery-list.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
